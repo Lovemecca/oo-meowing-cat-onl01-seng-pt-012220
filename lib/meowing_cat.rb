@@ -1,10 +1,16 @@
 class Cat
   
   def initialize (name)
-    @name
+    @name = name
   end   
   
-end
+  def meow
+    puts "meow!"
+  end
+  
+  
+  
+  
 
   
   
