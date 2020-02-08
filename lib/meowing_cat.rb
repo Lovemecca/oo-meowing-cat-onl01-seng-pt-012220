@@ -4,13 +4,7 @@ class Cat
     @name = name
   end   
   
-  def name = {name}
-    @name
-  end
-  
-  def name
-    @name
-  end   
+  attr 
   
   def meow
     puts "meow!"
