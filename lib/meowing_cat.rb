@@ -1,5 +1,7 @@
 class Cat
-  def 
+  def initialize (name)
+  
+  end   
 end
 
   
